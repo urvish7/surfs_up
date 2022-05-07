@@ -41,4 +41,11 @@ This Analysis have following steps:
 
 In the nutshell, the june temperature is more concentrated between 70 to 80 degrees while, December temperature is more concentraed between 65 and 75 degrees. From the Analysis we can say that the June month is warmer compare to the December month. 
 
+June Temperature graph:
+
+![June_graphs](https://github.com/urvish7/surfs_up/blob/main/Resources/June_graph.png)
+
+December Temperature Graph:
+
+![December_graph](https://github.com/urvish7/surfs_up/blob/main/Resources/December_graph.png)
 
