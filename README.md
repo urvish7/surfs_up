@@ -43,5 +43,5 @@ In the nutshell, the june temperature is more concentrated between 70 to 80 degr
 
 ![June_graphs](https://github.com/urvish7/surfs_up/blob/main/Resources/June_graph.png)
 
-![December_graph] (https://github.com/urvish7/surfs_up/blob/main/Resources/December_graph.png)
+![December_graph](https://github.com/urvish7/surfs_up/blob/main/Resources/December_graph.png)
 
