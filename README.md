@@ -49,3 +49,7 @@ December Temperature Graph:
 
 ![December_graph](https://github.com/urvish7/surfs_up/blob/main/Resources/December_graph.png)
 
+Precipitation Data:
+
+![precipitation](https://github.com/urvish7/surfs_up/blob/main/Resources/Precipitation.png)
+
